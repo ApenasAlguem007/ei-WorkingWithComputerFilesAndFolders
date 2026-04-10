@@ -1,3 +1,6 @@
+ RESUMINDO O README
+ 
+ 
  O que é pathlib?
 É uma biblioteca padrão do Python que permite trabalhar com caminhos de arquivos/pastas de um jeito mais moderno e organizado (orientado a objetos), substituindo o os.path.
 Vantagens:
