@@ -52,3 +52,4 @@ um programa de terminal (CLI)
 organizador automático de downloads
 sistema de backup
 pipeline de processamento de arquivos
+
