@@ -1,6 +1,3 @@
- RESUMINDO O README
- 
- 
  O que é pathlib?
 É uma biblioteca padrão do Python que permite trabalhar com caminhos de arquivos/pastas de um jeito mais moderno e organizado (orientado a objetos), substituindo o os.path.
 Vantagens:
@@ -10,7 +7,7 @@ Mais seguro
 Funciona melhor entre sistemas (Windows/Linux/Mac)
 
 
- O que tem nos exemplos (ex01 → ex11)
+📌 O que tem nos exemplos (ex01 → ex11)
 Cada arquivo exXX.py é um passo:
 
 Ex01: básicos do Path (criar caminho, ver se existe, pegar nome/extensão, listar pastas)
@@ -26,7 +23,7 @@ Ex10: buscar arquivos (recursivo) e filtrar pelo nome
 Ex11: limpar diretórios (apagar arquivos automaticamente)
 
 
- Boas práticas (alertas importantes)
+⚠️ Boas práticas (alertas importantes)
 
 Verificar se é arquivo mesmo (is_file())
 Evitar sobrescrever sem querer
@@ -35,7 +32,7 @@ Ter atenção ao extrair ZIP (segurança/validação)
 Evitar caracteres inválidos (especialmente no Windows)
 
 
- Caminho de evolução do repositório
+📈 Caminho de evolução do repositório
 Ele segue uma progressão bem lógica:
 
 fundamentos
@@ -45,7 +42,7 @@ automatizar tarefas
 casos reais (ZIP, busca, limpeza)
 
 
- Ideias para evoluir depois
+💡 Ideias para evoluir depois
 Você pode transformar isso em:
 
 um programa de terminal (CLI)
